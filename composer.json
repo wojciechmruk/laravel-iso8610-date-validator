@@ -1,0 +1,22 @@
+{
+    "name": "wojciechmruk/iso8610datevalidator",
+    "authors": [
+        {
+            "name": "Wojciech Mruk",
+            "email": "vojciechmruk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": ">=5.0.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=4.0",
+        "phpspec/phpspec": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WojciechMruk\\LaravelValidator\\": "src"
+        }
+    }
+}
