@@ -1,5 +1,6 @@
 {
     "name": "wojciechmruk/iso8610datevalidator",
+    "description": "Laravel ISO 8610 Validator.",
     "authors": [
         {
             "name": "Wojciech Mruk",
